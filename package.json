@@ -1,0 +1,29 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "exampleApp",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quansho/projectone.git"
+  },
+  "author": "Artur Danielian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quansho/projectone/issues"
+  },
+  "homepage": "https://github.com/quansho/projectone#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  },
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  }
+}
