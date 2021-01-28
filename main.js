@@ -4,4 +4,5 @@ console.log('start');
 
 setTimeout(()=>{
     console.log('stop');
-}, 2000)
+}, 2000);
+
